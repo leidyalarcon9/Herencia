@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 /**
  * Clase Java para implementar un cliente que emplea la jerarquía de herencia de
  * la persona, el empleado y el estudiante para mostrar los cálculos de cada uno
- * de los respectivos procesos implementados por cada clase
+ * de los respectivos procesos implementados por cada clase.
  */
 public class SistemaInformacion {
 

@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author paipo
+ * @author LeidyA
  */
 public class Estudiante extends Persona {
     

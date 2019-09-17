@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 /**
  * Clase Java para implementar una superclase padre que maneja los datos de un
- * objeto de tipo persona de forma genérica
+ * objeto de tipo persona de forma genérica.
  */
 public class Persona {
 

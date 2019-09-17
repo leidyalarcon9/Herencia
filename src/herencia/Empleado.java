@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 /**
  * Clase Java para implementar una subclase de tipo empleado que muestra el
- * comportamiento propio de un objeto de este tipo
+ * comportamiento propio de un objeto de este tipo.
  */
 public class Empleado extends Persona {
 
